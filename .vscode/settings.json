@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.validate": ["javascript", "typescript", "svelte"],
+  "files.exclude": {
+    "node_modules": true,
+    ".svelte-kit": true,
+    "dist": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "svelte.language-server.runtime": "node",
+  "svelte.language-server.ts-plugin": true
+}
