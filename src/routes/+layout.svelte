@@ -2,7 +2,7 @@
   import "../global.css";
   import { onMount } from "svelte";
 
-  const PAYPAL_ME_NAME = "";
+  const PAYPAL_ME_NAME = "AxelLab427";
   let dropdownOpen = false;
   let dropdownRef = null;
   let mouseLeaveTimeout = null;
