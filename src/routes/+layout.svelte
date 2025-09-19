@@ -2,7 +2,7 @@
   import "../global.css";
   import { onMount } from "svelte";
 
-  const PAYPAL_ME_NAME = "AxelLab427";
+  const PAYPAL_ME_NAME = "";
   let dropdownOpen = false;
   let dropdownRef = null;
   let mouseLeaveTimeout = null;
@@ -51,7 +51,7 @@
 
 <nav class="navbar" align="center">
   <div class="nav-left">
-    <a href="/" class="brand">AxelLab</a>
+    <a href="./" class="brand">AxelLab</a>
 
     <!-- Coffee dropdown (integrated) -->
     <div class="coffee-dropdown" bind:this={dropdownRef} on:mouseleave={closeDropdown} role="group">
@@ -76,7 +76,7 @@
   </div>
 
   <div class="nav-right">
-    <a href="/" class="nav-link">Home</a>
+    <a href="./" class="nav-link">Home</a>
     <a href="#about" class="nav-link">About</a>
     <a href="#how-to-use" class="nav-link">How to Use</a>
     <a href="#faq" class="nav-link">FAQ</a>
@@ -99,8 +99,8 @@
     <footer class="mt-10 text-center text-sm text-slate-400 py-6 w-full border-t border-slate-700">
       <p>© 2025 Hemingway Checker</p>
       <div class="footer-links mt-2 flex justify-center gap-4">
-        <a href="/privacy">Privacy Policy</a>
-        <a href="/terms">Terms</a>
+        <a href="./privacy">Privacy Policy</a>
+        <a href="./terms">Terms</a>
       </div>
     </footer>
   </div>
