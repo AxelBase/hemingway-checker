@@ -108,9 +108,7 @@
   <h3>Before/After Example</h3>
   <p>Before: "The report was written by the team." (Passive)</p>
   <p>After: "The team wrote the report." (Active)</p>
-  
-  <img src="/before-after.gif" alt="GIF showing Hemingway-inspired rewrite in rule-based readability checker" loading="lazy" class="my-4 rounded-lg shadow-md" />
-  
+    
   <p>For source code and custom setups, check our <a href="https://github.com/axelbase/hemingway-checker" class="hover:underline">GitHub repo</a>.</p>
   
   <h2>FAQ</h2>

@@ -108,7 +108,6 @@
   <p>Before: Complex jargon-filled paragraph.</p>
   <p>After: Simplified, accessible version.</p>
   
-  <img src="/accessible-rewrite.gif" alt="GIF showing Hemingway-inspired accessibility rewrite in rule-based tool" loading="lazy" class="my-4 rounded-lg shadow-md" />
   
   <p>Contribute to accessibility features on <a href="https://github.com/axelbase/hemingway-checker" class="hover:underline">GitHub</a>.</p>
   

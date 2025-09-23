@@ -108,7 +108,6 @@
   <p>Before: "Mistakes were made by the committee." (Passive)</p>
   <p>After: "The committee made mistakes." (Active)</p>
   
-  <img src="/passive-before-after.gif" alt="GIF of Hemingway-inspired passive voice rewrite in rule-based tool" loading="lazy" class="my-4 rounded-lg shadow-md" />
   
   <p>Implement these rules yourself or use our open-source code on <a href="https://github.com/axelbase/hemingway-checker" class="hover:underline">GitHub</a>.</p>
   

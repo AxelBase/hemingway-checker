@@ -104,7 +104,6 @@
   <p>Sample text: "The quick brown fox jumps over the lazy dog."</p>
   <p>Flesch-Kincaid: ~5th grade. ARI: ~4th grade.</p>
   
-  <img src="/score-comparison.gif" alt="GIF comparing Hemingway-inspired Flesch-Kincaid and ARI in rule-based tool" loading="lazy" class="my-4 rounded-lg shadow-md" />
   
   <p>See the formulas in action on our <a href="https://github.com/axelbase/hemingway-checker" class="hover:underline">GitHub</a>.</p>
   

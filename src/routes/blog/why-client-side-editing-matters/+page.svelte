@@ -104,7 +104,6 @@
   <p>Before: Upload to cloud for analysis.</p>
   <p>After: Instant local feedback.</p>
   
-  <img src="/client-side-demo.gif" alt="GIF showing Hemingway-inspired client-side editing in rule-based tool" loading="lazy" class="my-4 rounded-lg shadow-md" />
   
   <p>Explore the code on <a href="https://github.com/axelbase/hemingway-checker" class="hover:underline">GitHub</a> to see how it works.</p>
   
