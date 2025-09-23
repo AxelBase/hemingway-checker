@@ -1,4 +1,4 @@
-import{S as H,i as M,s as C,n as A,d as a,a as i,b as P,c as e,h as q,e as r,g as I,f as R,j as n,k as S}from"../chunks/2HANxcly.js";import"../chunks/IHki7fMi.js";import{b as k}from"../chunks/DjCnJHTf.js";function G(_){let o,d,h,u,m,y,g,f,b,w,v,s,T=`{\r
+import{S as H,i as M,s as C,n as A,d as a,a as i,b as P,c as e,h as q,e as r,g as I,f as R,j as n,k as S}from"../chunks/2HANxcly.js";import"../chunks/IHki7fMi.js";import{b as k}from"../chunks/BIILvm9d.js";function G(_){let o,d,h,u,m,y,g,f,b,w,v,s,T=`{\r
       "@context": "https://schema.org",\r
       "@type": "Article",\r
       "headline": "Readability Offline: Hemingway-Inspired Guide",\r
