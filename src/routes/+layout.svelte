@@ -1,4 +1,7 @@
+<!-- Updated src/routes/+layout.svelte -->
+<!-- Added tabindex="-1" to the coffee-menu div to resolve the A11y warning about elements with role="menu" needing a tabindex value. -->
 <script>
+  import { base } from '$app/paths';
   import "../global.css";
   import { onMount } from "svelte";
 
@@ -51,7 +54,7 @@
 
 <nav class="navbar" align="center">
   <div class="nav-left">
-    <a href="./" class="brand">AxelLab</a>
+    <a href="{base}/" class="brand">AxelLab</a>
 
     <!-- Coffee dropdown (integrated) -->
     <div class="coffee-dropdown" bind:this={dropdownRef} on:mouseleave={closeDropdown} role="group">
@@ -65,7 +68,7 @@
       </button>
 
       {#if dropdownOpen}
-        <div class="coffee-menu" role="menu" aria-label="Buy me a coffee" on:mouseenter={handleMenuMouseEnter}>
+        <div class="coffee-menu" role="menu" aria-label="Buy me a coffee" on:mouseenter={handleMenuMouseEnter} tabindex="-1">
           <button role="menuitem" on:click={() => pay(2)}>$1</button>
           <button role="menuitem" on:click={() => pay(3)}>$3</button>
           <button role="menuitem" on:click={() => pay(5)}>$5</button>
@@ -76,7 +79,8 @@
   </div>
 
   <div class="nav-right">
-    <a href="./" class="nav-link">Home</a>
+    <a href="{base}/" class="nav-link">Home</a>
+    <a href="{base}/blog" class="nav-link">Blog</a>
     <a href="#about" class="nav-link">About</a>
     <a href="#how-to-use" class="nav-link">How to Use</a>
     <a href="#faq" class="nav-link">FAQ</a>
@@ -99,8 +103,8 @@
     <footer class="mt-10 text-center text-sm text-slate-400 py-6 w-full border-t border-slate-700">
       <p>© 2025 Hemingway Checker</p>
       <div class="footer-links mt-2 flex justify-center gap-4">
-        <a href="./privacy">Privacy Policy</a>
-        <a href="./terms">Terms</a>
+        <a href="{base}/privacy">Privacy Policy</a>
+        <a href="{base}/terms">Terms</a>
       </div>
     </footer>
   </div>
