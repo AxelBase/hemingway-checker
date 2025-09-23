@@ -1,5 +1,0 @@
-<!-- New file: static/robots.txt -->
-<!-- Basic robots.txt to allow crawling of all routes, including /blog. -->
-User-agent: *
-Allow: /
-Sitemap: https://axelbase.github.io/hemingway-checker/sitemap.xml
