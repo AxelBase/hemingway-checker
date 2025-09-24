@@ -78,7 +78,7 @@
 
   <div class="nav-right">
     <a href="{base}/" class="nav-link">Home</a>
-    <a href="{base}/blog" class="nav-link">Blog</a>
+    <a href="/hemingway-checker/blog" class="nav-link">Blog</a>
     <a href="{base}#about" class="nav-link">About</a>
     <a href="{base}#how-to-use" class="nav-link">How to Use</a>
     <a href="{base}#faq" class="nav-link">FAQ</a>
@@ -101,8 +101,8 @@
     <footer class="mt-10 text-center text-sm text-slate-400 py-6 w-full border-t border-slate-700">
       <p>© 2025 Hemingway Checker</p>
       <div class="footer-links mt-2 flex justify-center gap-4">
-        <a href="{base}/privacy">Privacy Policy</a>
-        <a href="{base}/terms">Terms</a>
+        <a href="/hemingway-checker/privacy">Privacy Policy</a>
+        <a href="/hemingway-checker/terms">Terms</a>
       </div>
     </footer>
   </div>
