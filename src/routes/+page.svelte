@@ -5,6 +5,7 @@
   import Highlight from "../lib/components/Highlight.svelte";
   import SummaryPanel from "../lib/components/SummaryPanel.svelte";
   import { generatePDF } from "../lib/pdf/PdfGenerator";
+  export const prerender = true;
 
   let text = "";
   let analysis: any = null;

@@ -8,7 +8,11 @@ const config = {
       // Optional: fallback page for SPA routing
       pages: 'docs',
       assets: 'docs',
-      fallback: '404.html'
+      fallback: '404.html',
+      precompress: false,
+      prerender: {
+        entries: ['*'] // Prerender all routes
+      }
     }),
     paths: {
       // Set this to your repo name if deploying to a subfolder
