@@ -1,4 +1,4 @@
-import{S as C,i as P,s as W,n as A,d as r,c as s,b as E,m as e,o as j,e as n,p as T,h as S,j as a,k as O}from"../chunks/CErwOkU-.js";import"../chunks/IHki7fMi.js";import{b as _}from"../chunks/CHbrYuxK.js";const L=!0,K=Object.freeze(Object.defineProperty({__proto__:null,prerender:L},Symbol.toStringTag,{value:"Module"}));function Q(M){let i,d,m,u,h,y,g,b,w,f,x,o,k=`{\r
+import{S as C,i as P,s as W,n as A,d as r,c as s,b as E,m as e,o as j,e as n,p as T,h as S,j as a,k as O}from"../chunks/CErwOkU-.js";import"../chunks/IHki7fMi.js";import{b as _}from"../chunks/Cng--_qh.js";const L=!0,K=Object.freeze(Object.defineProperty({__proto__:null,prerender:L},Symbol.toStringTag,{value:"Module"}));function Q(M){let i,d,m,u,h,y,g,b,w,f,x,o,k=`{\r
       "@context": "https://schema.org",\r
       "@type": "Article",\r
       "headline": "Accessible Tools: Hemingway-Inspired Writing",\r

@@ -1,4 +1,4 @@
-import{S as C,i as B,s as H,n as A,d as a,c as s,b as T,m as e,o as I,e as r,p as M,h as S,j as o,k as P}from"../chunks/CErwOkU-.js";import"../chunks/IHki7fMi.js";import{b as v}from"../chunks/CHbrYuxK.js";const W=!0,R=Object.freeze(Object.defineProperty({__proto__:null,prerender:W},Symbol.toStringTag,{value:"Module"}));function $(E){let n,p,d,m,h,u,b,y,g,f,x,i,k=`{\r
+import{S as C,i as B,s as H,n as A,d as a,c as s,b as T,m as e,o as I,e as r,p as M,h as S,j as o,k as P}from"../chunks/CErwOkU-.js";import"../chunks/IHki7fMi.js";import{b as v}from"../chunks/Cng--_qh.js";const W=!0,R=Object.freeze(Object.defineProperty({__proto__:null,prerender:W},Symbol.toStringTag,{value:"Module"}));function $(E){let n,p,d,m,h,u,b,y,g,f,x,i,k=`{\r
       "@context": "https://schema.org",\r
       "@type": "CollectionPage",\r
       "name": "AxelBase Blog",\r

@@ -1,4 +1,4 @@
-import{S as M,i as H,s as C,n as A,d as a,c as i,b as q,m as e,o as R,e as r,p as k,h as S,j as n,k as B}from"../chunks/CErwOkU-.js";import"../chunks/IHki7fMi.js";import{b as P}from"../chunks/CHbrYuxK.js";const j=!0,W=Object.freeze(Object.defineProperty({__proto__:null,prerender:j},Symbol.toStringTag,{value:"Module"}));function O(E){let s,d,u,m,h,y,g,v,w,b,f,o,T=`{\r
+import{S as M,i as H,s as C,n as A,d as a,c as i,b as q,m as e,o as R,e as r,p as k,h as S,j as n,k as B}from"../chunks/CErwOkU-.js";import"../chunks/IHki7fMi.js";import{b as P}from"../chunks/Cng--_qh.js";const j=!0,W=Object.freeze(Object.defineProperty({__proto__:null,prerender:j},Symbol.toStringTag,{value:"Module"}));function O(E){let s,d,u,m,h,y,g,v,w,b,f,o,T=`{\r
       "@context": "https://schema.org",\r
       "@type": "Article",\r
       "headline": "Passive Voice: Hemingway Rule-Based Detection",\r

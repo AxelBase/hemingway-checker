@@ -1,4 +1,4 @@
-import{S as E,i as H,s as M,n as A,d as r,c as s,b as C,m as e,o as F,e as a,p as k,h as K,j as n,k as P}from"../chunks/CErwOkU-.js";import"../chunks/IHki7fMi.js";import{b as I}from"../chunks/CHbrYuxK.js";const O=!0,W=Object.freeze(Object.defineProperty({__proto__:null,prerender:O},Symbol.toStringTag,{value:"Module"}));function q(R){let i,d,h,m,u,y,g,b,w,f,v,o,_=`{\r
+import{S as E,i as H,s as M,n as A,d as r,c as s,b as C,m as e,o as F,e as a,p as k,h as K,j as n,k as P}from"../chunks/CErwOkU-.js";import"../chunks/IHki7fMi.js";import{b as I}from"../chunks/Cng--_qh.js";const O=!0,W=Object.freeze(Object.defineProperty({__proto__:null,prerender:O},Symbol.toStringTag,{value:"Module"}));function q(R){let i,d,h,m,u,y,g,b,w,f,v,o,_=`{\r
       "@context": "https://schema.org",\r
       "@type": "Article",\r
       "headline": "Hemingway Scores: Flesch-Kincaid vs ARI",\r
