@@ -1,4 +1,4 @@
-import{S as H,i as M,s as C,n as A,d as a,c as i,b as E,m as e,o as S,e as r,p as T,h as q,j as n,k as R}from"../chunks/CErwOkU-.js";import"../chunks/IHki7fMi.js";import{b as k}from"../chunks/BJ0NLAYm.js";const j=!0,Q=Object.freeze(Object.defineProperty({__proto__:null,prerender:j},Symbol.toStringTag,{value:"Module"}));function G(P){let o,d,h,u,m,y,g,f,b,w,v,s,I=`{\r
+import{S as H,i as M,s as C,n as A,d as a,c as i,b as E,m as e,o as S,e as r,p as T,h as q,j as n,k as R}from"../chunks/CErwOkU-.js";import"../chunks/IHki7fMi.js";import{b as k}from"../chunks/CHbrYuxK.js";const j=!0,Q=Object.freeze(Object.defineProperty({__proto__:null,prerender:j},Symbol.toStringTag,{value:"Module"}));function G(P){let o,d,h,u,m,y,g,f,b,w,v,s,I=`{\r
       "@context": "https://schema.org",\r
       "@type": "Article",\r
       "headline": "Readability Offline: Hemingway-Inspired Guide",\r
