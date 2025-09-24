@@ -1,4 +1,4 @@
-import{S as H,i as M,s as S,n as A,d as n,a as i,b as P,c as e,h as O,e as r,g as k,f as q,j as a,k as W}from"../chunks/2HANxcly.js";import"../chunks/IHki7fMi.js";import{b as E}from"../chunks/CNo4YcMn.js";function L(_){let s,p,m,h,u,y,g,w,b,f,v,o,T=`{\r
+import{S as H,i as M,s as S,n as A,d as n,a as i,b as P,c as e,h as O,e as r,g as k,f as q,j as a,k as W}from"../chunks/2HANxcly.js";import"../chunks/IHki7fMi.js";import{b as E}from"../chunks/B5UF-EL8.js";function L(_){let s,p,m,h,u,y,g,w,b,f,v,o,T=`{\r
       "@context": "https://schema.org",\r
       "@type": "Article",\r
       "headline": "Client-Side Editing: Hemingway Privacy Tool",\r

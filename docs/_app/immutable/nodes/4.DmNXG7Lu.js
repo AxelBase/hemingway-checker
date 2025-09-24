@@ -1,4 +1,4 @@
-import{S as M,i as P,s as W,n as A,d as r,a as s,b as _,c as e,h as j,e as n,g as T,f as L,j as a,k as S}from"../chunks/2HANxcly.js";import"../chunks/IHki7fMi.js";import{b as k}from"../chunks/CNo4YcMn.js";function O(C){let i,d,m,u,h,y,g,b,w,f,x,o,H=`{\r
+import{S as M,i as P,s as W,n as A,d as r,a as s,b as _,c as e,h as j,e as n,g as T,f as L,j as a,k as S}from"../chunks/2HANxcly.js";import"../chunks/IHki7fMi.js";import{b as k}from"../chunks/B5UF-EL8.js";function O(C){let i,d,m,u,h,y,g,b,w,f,x,o,H=`{\r
       "@context": "https://schema.org",\r
       "@type": "Article",\r
       "headline": "Accessible Tools: Hemingway-Inspired Writing",\r
