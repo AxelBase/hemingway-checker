@@ -47,20 +47,28 @@
       <p class="text-slate-400">Analyze text without online tools or data sharing.</p>
     </a>
 
+    <br/>
+
     <a href="{base}/blog/passive-voice-detection-without-ai" class="block card hover:transform hover:-translate-y-1 transition-transform">
       <h2 class="text-xl font-semibold text-yellow-400 mb-2">Passive Voice Detection Without AI: Rule-Based</h2>
       <p class="text-slate-400">Spot and fix passive voice for clearer writing.</p>
     </a>
+    
+    <br/>
 
     <a href="{base}/blog/flesch-kincaid-vs-ari" class="block card hover:transform hover:-translate-y-1 transition-transform">
       <h2 class="text-xl font-semibold text-yellow-400 mb-2">Flesch-Kincaid vs ARI: Grade-Level Scores</h2>
       <p class="text-slate-400">Compare readability formulas for better insights.</p>
     </a>
 
+    <br/>
+
     <a href="{base}/blog/accessible-writing-tools" class="block card hover:transform hover:-translate-y-1 transition-transform">
       <h2 class="text-xl font-semibold text-yellow-400 mb-2">Accessible Writing Tools: Keyboard & Screen Safe</h2>
       <p class="text-slate-400">Create content usable for all audiences.</p>
     </a>
+
+    <br/>
 
     <a href="{base}/blog/why-client-side-editing-matters" class="block card hover:transform hover:-translate-y-1 transition-transform">
       <h2 class="text-xl font-semibold text-yellow-400 mb-2">Client-Side Editing: Why It Matters for Writers</h2>

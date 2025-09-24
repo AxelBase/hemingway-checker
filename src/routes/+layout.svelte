@@ -1,5 +1,3 @@
-<!-- Updated src/routes/+layout.svelte -->
-<!-- Added tabindex="-1" to the coffee-menu div to resolve the A11y warning about elements with role="menu" needing a tabindex value. -->
 <script>
   import { base } from '$app/paths';
   import "../global.css";
@@ -81,9 +79,9 @@
   <div class="nav-right">
     <a href="{base}/" class="nav-link">Home</a>
     <a href="{base}/blog" class="nav-link">Blog</a>
-    <a href="#about" class="nav-link">About</a>
-    <a href="#how-to-use" class="nav-link">How to Use</a>
-    <a href="#faq" class="nav-link">FAQ</a>
+    <a href="{base}#about" class="nav-link">About</a>
+    <a href="{base}#how-to-use" class="nav-link">How to Use</a>
+    <a href="{base}#faq" class="nav-link">FAQ</a>
   </div>
 </nav>
 

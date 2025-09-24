@@ -5,6 +5,7 @@
   import Highlight from "../lib/components/Highlight.svelte";
   import SummaryPanel from "../lib/components/SummaryPanel.svelte";
   import { generatePDF } from "../lib/pdf/PdfGenerator";
+  import { base } from '$app/paths';
 
   let text = "";
   let analysis: any = null;
@@ -103,7 +104,7 @@
 
 <div class="w-full flex flex-col items-center gap-6">
   <!-- 🔗 Home anchor -->
-  <div id="home"></div>
+  <section id="home"></section>
 
   <!-- 🔗 Input field -->
   <div class="w-full" transition:fade={{ duration: 400 }}>
@@ -151,9 +152,9 @@
   {/if}
 
   <!-- 🔗 About section -->
-  <div id="about" class="text-center text-slate-300 p-10 text-lg">
+  <section id="about" class="text-center text-slate-300 p-10 text-lg">
     <h2 class="text-yellow-400 text-xl mb-2">About Hemingway-Style Readability Checker</h2>
-  </div>
+  </section>
 
   <!-- 📘 Utility description -->
   <div class="w-full" in:fly={{ y: 30, duration: 500, delay: 300 }} out:fade={{ duration: 300 }}>
@@ -169,13 +170,13 @@
   </div>
 
   <!-- 🔗 How to Use section -->
-  <div id="how-to-use" class="text-center text-slate-300 p-10 text-lg">
+  <section id="how-to-use" class="text-center text-slate-300 p-10 text-lg">
     <h2 class="text-yellow-400 text-xl mb-2">How to Use</h2>
     <p>Paste your work, wait for analysis, then review the highlighted feedback and summary panel. Use the copy or PDF export buttons to save your results.</p>
-  </div>
+  </section>
 
   <!-- ❓ FAQ section -->
-  <div id="faq" class="text-center text-slate-300 p-10 text-lg">
+  <section id="faq" class="text-center text-slate-300 p-10 text-lg">
     <h2 class="text-yellow-400 text-xl mb-2">FAQ</h2>
     <div class="faq-section">
       <p><strong>1. What is “Hemingway-style” readability?</strong><br/>
@@ -208,5 +209,5 @@
       <p><strong>10. Why should I trust this over other readability tools?</strong><br/>
       Most readability tools rely on cloud APIs or opaque scoring systems. Ours is <strong>transparent, reproducible, and privacy-respecting</strong>. If you don’t trust AI, <em>this tool is built for you</em>.</p>
     </div>
-  </div>
+  </section>
 </div>
