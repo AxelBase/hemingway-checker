@@ -1,4 +1,4 @@
-import{S as C,i as B,s as H,n as A,d as a,a as n,b as _,c as e,h as I,e as r,g as E,f as S,j as s,k as P}from"../chunks/2HANxcly.js";import"../chunks/IHki7fMi.js";import{b as v}from"../chunks/CsFgKFK9.js";function W(M){let o,m,d,p,h,u,y,g,b,f,x,i,k=`{\r
+import{S as C,i as B,s as H,n as A,d as a,a as n,b as _,c as e,h as I,e as r,g as E,f as S,j as s,k as P}from"../chunks/2HANxcly.js";import"../chunks/IHki7fMi.js";import{b as v}from"../chunks/BzcGxSHP.js";function W(M){let o,m,d,p,h,u,y,g,b,f,x,i,k=`{\r
       "@context": "https://schema.org",\r
       "@type": "CollectionPage",\r
       "name": "AxelBase Blog",\r

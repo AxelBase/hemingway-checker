@@ -1,4 +1,4 @@
-import{S as H,i as M,s as C,n as A,d as a,a as i,b as E,c as e,h as R,e as r,g as k,f as B,j as n,k as S}from"../chunks/2HANxcly.js";import"../chunks/IHki7fMi.js";import{b as P}from"../chunks/CsFgKFK9.js";function D(_){let s,d,u,m,h,y,g,v,w,b,f,o,T=`{\r
+import{S as H,i as M,s as C,n as A,d as a,a as i,b as E,c as e,h as R,e as r,g as k,f as B,j as n,k as S}from"../chunks/2HANxcly.js";import"../chunks/IHki7fMi.js";import{b as P}from"../chunks/BzcGxSHP.js";function D(_){let s,d,u,m,h,y,g,v,w,b,f,o,T=`{\r
       "@context": "https://schema.org",\r
       "@type": "Article",\r
       "headline": "Passive Voice: Hemingway Rule-Based Detection",\r
