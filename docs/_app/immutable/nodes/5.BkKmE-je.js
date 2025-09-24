@@ -1,4 +1,4 @@
-import{S as _,i as H,s as F,n as A,d as a,a as s,b as S,c as e,h as M,e as r,g as k,f as K,j as n,k as P}from"../chunks/2HANxcly.js";import"../chunks/IHki7fMi.js";import{b as I}from"../chunks/ypi9OXTE.js";function q(E){let i,d,h,m,u,y,g,b,w,f,x,o,T=`{\r
+import{S as _,i as H,s as F,n as A,d as a,a as s,b as S,c as e,h as M,e as r,g as k,f as K,j as n,k as P}from"../chunks/2HANxcly.js";import"../chunks/IHki7fMi.js";import{b as I}from"../chunks/CsFgKFK9.js";function q(E){let i,d,h,m,u,y,g,b,w,f,x,o,T=`{\r
       "@context": "https://schema.org",\r
       "@type": "Article",\r
       "headline": "Hemingway Scores: Flesch-Kincaid vs ARI",\r
