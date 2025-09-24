@@ -5,18 +5,17 @@ const config = {
   preprocess: vitePreprocess(),
   kit: {
     adapter: adapter({
-      // Optional: fallback page for SPA routing
       pages: 'docs',
       assets: 'docs',
       fallback: '404.html',
-      precompress: false,
-      prerender: {
-        entries: ['*'] // Prerender all routes
-      }
+      precompress: false
     }),
     paths: {
-      // Set this to your repo name if deploying to a subfolder
       base: '/hemingway-checker'
+    },
+    prerender: {
+      entries: ['*'],        // ✅ correct location
+      handleHttpError: 'warn'
     },
     alias: {
       "@lib": "src/lib",
