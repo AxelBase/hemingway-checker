@@ -69,7 +69,7 @@
 
       {#if dropdownOpen}
         <div class="coffee-menu" role="menu" aria-label="Buy me a coffee" on:mouseenter={handleMenuMouseEnter} tabindex="-1">
-          <button role="menuitem" on:click={() => pay(2)}>$1</button>
+          <button role="menuitem" on:click={() => pay(1)}>$1</button>
           <button role="menuitem" on:click={() => pay(3)}>$3</button>
           <button role="menuitem" on:click={() => pay(5)}>$5</button>
           <button role="menuitem" on:click={() => pay(10)}>$10</button>
