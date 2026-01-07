@@ -1,5 +1,6 @@
 <script lang="ts">
   import { fade, fly } from "svelte/transition";
+    import { base } from '$app/paths';
 </script>
 
 <div class="w-full flex flex-col items-center gap-6">
@@ -38,7 +39,7 @@
     </p><br/>
 
     <p>
-      For more information, please refer to our <a href="/privacy" class="text-yellow-400 underline">Privacy Policy</a>.
+      For more information, please refer to our <a href="{base}/privacy" class="text-yellow-400 underline">Privacy Policy</a>.
     </p>
   </div>
 </div>

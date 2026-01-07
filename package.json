@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "^3.0.0",
+    "@sveltejs/adapter-static": "^3.0.10",
     "@sveltejs/kit": "^2.0.0",
     "@sveltejs/vite-plugin-svelte": "^3.0.0",
     "@testing-library/svelte": "^4.0.0",
@@ -28,7 +29,6 @@
     "vitest": "^1.6.1"
   },
   "dependencies": {
-    "@sveltejs/adapter-static": "^3.0.9",
     "filepond": "^4.32.9",
     "fontkit": "^2.0.4",
     "franc": "^6.2.0",
